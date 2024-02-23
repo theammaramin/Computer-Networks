@@ -1,7 +1,4 @@
-#CN assignment 1
-#Ammar Amin 20K-0285
-#Muhammad Anas 20K-0179
-#6F
+
 
 import socket
 import threading
